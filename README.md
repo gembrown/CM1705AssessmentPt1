@@ -1,2 +1,3 @@
 # CM1705AssessmentPt1
-Print("Hello World")
+name=input("What is your name? ")
+print("Hello "+ name)
